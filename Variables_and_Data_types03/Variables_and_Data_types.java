@@ -1,4 +1,4 @@
-package Lecture03;
+package Variables_and_Data_types03;
 
 public class Variables_and_Data_types{
         public static void main(String[] args) {

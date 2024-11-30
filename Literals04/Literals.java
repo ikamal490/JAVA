@@ -1,4 +1,4 @@
-package Lecture04;
+package Literals04;
 
 public class Literals {
     public static void main(String[] args) {

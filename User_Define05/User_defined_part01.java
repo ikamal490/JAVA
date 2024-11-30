@@ -1,4 +1,4 @@
-package Lecture05;
+package User_Define05;
 
 import java.util.Scanner;   // use to import the keyboard value
 

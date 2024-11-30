@@ -1,4 +1,4 @@
-package Lecture08;
+package Operators08;
 
 public class Operators {
     public static void main(String[] args) {

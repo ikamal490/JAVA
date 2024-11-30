@@ -1,4 +1,4 @@
-package Lecture14;
+package string_methods14;
 
 public class string_methods {
     public static void main(String[]args){
@@ -29,7 +29,7 @@ public class string_methods {
         System.out.println(name.startsWith("Kam"));  // It gives true output
         System.out.println();
         System.out.println(name.endsWith("ama"));  // Kamal not ends with ama it end with mal so it is false statement
-        System.out.println(name.endsWith("al"));   // It is true statement 
+        System.out.println(name.endsWith("al"));   // It is true statement
 
 
 

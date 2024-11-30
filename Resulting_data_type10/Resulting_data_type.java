@@ -1,4 +1,4 @@
-package Lecture10;
+package Resulting_data_type10;
 
 public class Resulting_data_type {
     public static void main(String[]args){

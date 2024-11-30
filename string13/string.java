@@ -1,4 +1,4 @@
-package Lecture13;
+package string13;
 import java.util.Scanner;
 /*
        -->  A String is a sequence of characters
