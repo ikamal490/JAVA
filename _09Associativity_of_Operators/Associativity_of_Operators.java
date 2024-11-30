@@ -1,4 +1,4 @@
-package Associativity_of_Operators09;
+package _09Associativity_of_Operators;
 
 public class Associativity_of_Operators {
     public static void main(String[] args) {

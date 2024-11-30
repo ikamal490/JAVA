@@ -1,4 +1,4 @@
-package string13;
+package _13string;
 import java.util.Scanner;
 /*
        -->  A String is a sequence of characters

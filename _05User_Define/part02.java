@@ -1,4 +1,4 @@
-package User_Define05;
+package _05User_Define;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Variables_and_Data_types03;
+package _03_Variables_and_Data_types;
 
 public class Variables_and_Data_types{
         public static void main(String[] args) {

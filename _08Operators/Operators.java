@@ -1,4 +1,4 @@
-package Operators08;
+package _08Operators;
 
 public class Operators {
     public static void main(String[] args) {

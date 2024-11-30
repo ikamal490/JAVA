@@ -1,4 +1,4 @@
-package Literals04;
+package _04Literals;
 
 public class Literals {
     public static void main(String[] args) {

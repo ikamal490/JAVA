@@ -1,4 +1,4 @@
-package string_methods14;
+package _14_string_methods;
 
 public class string_methods {
     public static void main(String[]args){

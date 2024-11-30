@@ -1,4 +1,4 @@
-package Resulting_data_type10;
+package _10Resulting_data_type;
 
 public class Resulting_data_type {
     public static void main(String[]args){
