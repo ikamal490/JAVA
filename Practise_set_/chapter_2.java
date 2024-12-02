@@ -1,5 +1,4 @@
-package Practise_set;
-import java.util.Scanner;
+package Practise_set_;
 
 public class chapter_2 {
     public static void main(String[] args) {

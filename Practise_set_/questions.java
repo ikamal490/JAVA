@@ -1,4 +1,4 @@
-package Practise_set;
+package Practise_set_;
 
 import java.util.Scanner;
 

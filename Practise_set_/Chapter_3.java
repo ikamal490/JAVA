@@ -1,4 +1,4 @@
-package Practise_set;
+package Practise_set_;
 
 public class Chapter_3 {
     public static void main(String[] args) {
