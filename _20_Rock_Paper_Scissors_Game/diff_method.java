@@ -1,4 +1,4 @@
-package _21_Rock_Paper_Scissors_Game;
+package _20_Rock_Paper_Scissors_Game;
 import java.util.Scanner;
 public class diff_method {
     public static void main(String[]args){
