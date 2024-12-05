@@ -8,5 +8,6 @@ public class do_while_loop {
             System.out.println(a);
             a++;
         }while(a<=50);
+
     }
 }
