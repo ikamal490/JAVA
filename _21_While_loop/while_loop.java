@@ -1,5 +1,4 @@
 package _21_While_loop;
-
 public class while_loop {
     public static void main(String[] args) {
         System.out.println("\nPrint Number form 1 to 50 Using while loop :");
