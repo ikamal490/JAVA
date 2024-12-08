@@ -1,4 +1,4 @@
-package _25_Array;
+package _26_Array;
 
 public class Array {
     // Array is the collection of similar types of data
