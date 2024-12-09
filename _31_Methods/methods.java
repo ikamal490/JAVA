@@ -41,8 +41,10 @@ public class methods {
         int q = 12;
         int k;
         k = logic(p,q);
+
         System.out.println(c );
         System.out.println(c1);
         System.out.println(k);
+
     }
 }
