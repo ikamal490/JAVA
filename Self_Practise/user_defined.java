@@ -16,7 +16,10 @@ public class user_defined {
         Scanner kd = new Scanner(System.in);
         System.out.println("Enter the string you want to print here !");
         String str = kd.nextLine();
+        String strr = kd.next(); // Print only first word of the sentence i.e it print only kamal , it will not print kamal singh
         System.out.println(str);
+        System.out.println(strr);
+
 
     }
 }
