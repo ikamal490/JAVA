@@ -10,6 +10,7 @@ public class Operators {
         System.out.println(p);
 
         int c = 7;
+        c -=7;
         c += 3;  // += is c me 3 add kar doo !!
         System.out.println(c);
 //        System.out.println(64==43);  // == , >= , <= are the comparison operators
