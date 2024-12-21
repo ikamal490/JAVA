@@ -19,14 +19,14 @@ Variable is a container in which we can insert some value ---like empty water bo
                        /               \
                       /                 \
             Primitive Data Type         Non Primitive Data Type
-            .Int  (4 bytes)                      (Derived from Primitive Data type)
+            .Int  (4 bytes)             (Derived from Primitive Data type)
             .Char (2 bytes)
             .Float (4 bytes)
             .byte
             .long -- bada int no.
             .short --
             .double -- bada float no.
-            .bool  -- true/fals
+            .bool  -- true/false
 
 */
 
