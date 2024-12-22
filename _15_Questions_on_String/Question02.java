@@ -1,4 +1,4 @@
-package _015_Questions_on_String;
+package _15_Questions_on_String;
 /*
     Problem :Write a java program to replace spaces with underscores.
  */

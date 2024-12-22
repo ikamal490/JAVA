@@ -1,4 +1,4 @@
-package _015_Questions_on_String;
+package _15_Questions_on_String;
 /*
     Problm 1 :Write a java program to convert a String to a lowerCase.
  */
