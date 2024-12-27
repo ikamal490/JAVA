@@ -45,5 +45,6 @@ public class custom_class {
 //        int salary = kamal.getSalary();
 //        System.out.println(salary);
          System.out.println(kamal.getSalary());  // Direct method to write above two lines
+         System.out.println(hemant.getSalary());
     }
 }
