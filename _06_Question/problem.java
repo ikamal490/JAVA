@@ -1,4 +1,4 @@
-package Problem01;
+package _06_Question;
 
 /*
 Question ---->
