@@ -13,7 +13,7 @@ public class arrays {
          */
 
         int [] marks = {98,89,87,34,43};
-        // System.out.println(marks.length);
+//         System.out.println(marks.length);
 
         // Displaying the Array ( Naive way )
         System.out.println("By Using of Simple Method :");
