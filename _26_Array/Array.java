@@ -11,7 +11,8 @@ public class Array {
             2> Use Arrays (Recommended)
          */
 
-        int []marks = new int[5];
+        int []marks = new int[5]; // Here, 5 is the size of the array , it would be 500 or anything number
+        // Initialization
         marks[0] = 89;
         marks[1] = 90;
         marks[2] = 80;
@@ -22,9 +23,10 @@ public class Array {
 
         /*
             There are three main ways to create an array in java :
-            1. Declaration and memory allocation
+            1. Declaration + memory allocation
+            int []marks = new int[5];
             int[] marks  ------> Declaration
-            marks new int[5] -----> memory allocation
+            marks = new int[5] -----> memory allocation
 
             2. Declaration and then memory allocation
                 int [ ] marks;
