@@ -5,7 +5,7 @@ public class arrays {
         /*
             int [] marks = {98,89,87,34,43};
             float [] marks = {98.44f,89.0f,87.43f,34,43};
-            System.out.println(marks.length); // It will give how many number/Words in the array
+            System.out.println(marks.length); // It give length of array
             System.out.println(marks[0]);
             String [] students = {"Ram", "Rohan", "Kamal", "Shefali", "Unknown", "Rajkumar" ,"Kritika"};
             System.out.println(students.length);
