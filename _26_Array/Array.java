@@ -1,4 +1,6 @@
 package _26_Array;
+// DataType[] ArrName;  --> Format for array writing
+// Array indices starts form 0 and goes till (n-1) where n is the size of the array.
 
 public class Array {
     // Array is the collection of similar types of data
@@ -17,9 +19,12 @@ public class Array {
         marks[1] = 90;
         marks[2] = 80;
         marks[3] = 65;
+        marks[4] = 43;
+        marks[5] = 98;
         //When two same numbers were come in array it print only latest
        // marks[2] = 43;
         System.out.println(marks[2]);
+//        System.out.println(marks[5]); --> Throws an error because array length not match
 
         /*
             There are three main ways to create an array in java :
