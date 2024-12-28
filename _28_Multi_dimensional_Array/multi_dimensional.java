@@ -21,6 +21,11 @@ public class multi_dimensional {
                 System.out.print(" ");
             }
             System.out.println(" ");
+            /*
+                cars.length: detect how many instances/objects are there in the row of the 2D array
+                and
+                cars[i].length: detects how many instances/objects are there in the column of the 2D array
+             */
         }
     }
 }
