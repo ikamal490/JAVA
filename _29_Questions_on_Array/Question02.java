@@ -31,6 +31,7 @@ public class Question02 {
                 break;
             }
         }
+        System.out.println("\n It is an another method :");
         if(isInArray1){
             System.out.println("Present in array");
         }
