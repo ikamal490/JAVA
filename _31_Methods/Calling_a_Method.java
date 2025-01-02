@@ -1,7 +1,7 @@
 package _31_Methods;
 
 public class Calling_a_Method {
-     int logic (int x, int y){
+     int logic (int x, int y){  // we don't use of static keyword here !, so we have to create an object
         int z;
         if(x<y){
             z=x+y;
