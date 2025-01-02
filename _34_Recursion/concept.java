@@ -1,6 +1,6 @@
 package _34_Recursion;
 // IMP rough
-public class rough {
+public class concept {
       /*
          Working Process :
          5*factorial(5-1)
