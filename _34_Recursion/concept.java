@@ -3,11 +3,13 @@ package _34_Recursion;
 public class concept {
       /*
          Working Process :
-         5*factorial(5-1)
-         5*4*factorial(4-1)
-         5*4*3*factorial(3-1)
-         5*4*3*2*factorial(2-1)
-         5*4*3*2*1*factorial(1-1)
+Factorial = n*factorial(n-1)  // Formula
+
+            5*factorial(5-1)
+            5*4*factorial(4-1)
+            5*4*3*factorial(3-1)
+            5*4*3*2*factorial(2-1)
+            5*4*3*2*1*factorial(1-1)
        */
 
    static int factorial(int n){
