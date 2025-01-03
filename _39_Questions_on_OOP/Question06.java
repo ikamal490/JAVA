@@ -38,6 +38,8 @@ public class Question06 {
         //Output
         area78.5
         Perimeter 31.400002
+
+
         */
     }
 }
