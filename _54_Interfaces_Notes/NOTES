@@ -1,0 +1,19 @@
+Interfaces in english ia a point where two Systems meet and interact
+In java interface is a group of related methods with empty bodies.
+In Java, an interface is a reference type that defines a set of methods that a class must implement.
+
+An Example
+interface Bicycle{
+    void applyBrake(int decrement);
+    void speedUp(int increment);
+}
+
+class AvonCycle implement Bicycle{   // implement is use in interface while extends is use in inheritance
+        int speed = 7;
+        void applyBrake(int decrement){
+            speed = speed-decrement;
+        }
+        void speedUp(int increment){
+            speed = speed+increment;
+        }
+}
