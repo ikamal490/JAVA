@@ -1,0 +1,52 @@
+* Definition:
+    A package in Java is a namespace that organizes classes and interfaces, making code easier to manage and reuse.
+
+*Types of Packages:
+    Built-in Packages: Predefined packages like java.util, java.io, java.lang, etc.
+    User-defined Packages: Custom packages created by the programmer.
+
+*Key Features:
+    1.Groups related classes and interfaces.
+    2.Avoids naming conflicts.
+    3.Provides access control and encapsulation.
+    4.Simplifies locating and importing classes.
+
+*Creating a Package:
+//code
+package myPackage;
+public class MyClass {
+public void display() {
+System.out.println("Hello from MyClass!");
+}
+}
+
+*Using a Package:
+    1.Compile the package: javac -d . MyClass.java
+    2.Import and use it in another class:
+// code
+import myPackage.MyClass;
+public class Main {
+    public static void main(String[] args) {
+        MyClass obj = new MyClass();
+        obj.display();
+    }
+}
+
+*Default Package:
+    If no package is specified, the class belongs to the default package.
+
+*Common Built-in Packages:
+    java.lang: Basic classes (String, Math, etc.).
+    java.util: Utility classes (ArrayList, HashMap, etc.).
+    java.io: Input/Output classes (File, BufferedReader, etc.).
+    java.net: Networking classes (Socket, URL, etc.).
+
+*Package Import Syntax:
+    Import a specific class: import java.util.ArrayList;
+    Import all classes in a package: import java.util.*;
+
+*Access Control in Packages:
+    public: Accessible from any package.
+    protected: Accessible within the same package and subclasses.
+    Default (no modifier): Accessible only within the same package.
+
