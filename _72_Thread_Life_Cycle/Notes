@@ -1,0 +1,19 @@
+A thread in Java at any point of time exists in any one of the following states.
+A thread lies only in one of the shown states at any instant:
+
+1.New State
+2.Runnable State
+3.Blocked State
+4.Waiting State
+5.Timed Waiting State
+6.Terminated State
+
+1. New -> Instance of thread created which is not yet started by invoking start()
+
+2. Runnable -> After invocation of start() & before it is selected to be the run by the scheduler
+
+3. Running -> After thread scheduler has selected it.
+
+4. Non-Runnable -> Thread alive, not eligible to run
+
+5. Terminated -> run() method has exited
