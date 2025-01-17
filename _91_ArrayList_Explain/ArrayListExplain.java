@@ -13,7 +13,7 @@ public class ArrayListExplain {
         l2.add(25);
         l2.add(78);
         l2.add(93);
-        l2.add(67);
+        l2.add(69);
         l1.add(0,4);
         l1.add(0,100);
         l1.addAll(l2);
