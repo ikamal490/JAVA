@@ -1,0 +1,24 @@
+* Creating our own Java Documentation
+Java documentation is great!
+It helps us get info about which method/Class/Entity to use when.
+
+we can create our own packages Documentation in java.
+
+Javadoc tool :
+javadoc command allows us to create documentation in HTML format for our own package.
+Java provides tags for class or package to assist with the java doc generation.
+
+Tags for clas or a package:
+@ author : Adds the author name
+@ version : Adds the version
+@ Since : To add when was the version written
+@ See : Adds a see also heading with a link
+
+Tags for method :
+Javadoc provides following tags for method-
+1. @param  -> For describing the parameters of the method
+2. @return -> For describing about the return value
+3. @throws -> For describing exceptions throws
+4. @deprecated -> For describing deprecated status
+
+Description can be added at the start of javadoc comments
