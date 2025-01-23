@@ -9,12 +9,14 @@ package _35_Questions_on_Methods;
  */
 public class Question07 {
 
-    static void Rev_pattern(int n){
-        Rev_pattern(n-1);
-            for(int i=1; i<=n; i++){
-                System.out.print("*");
-            }
-            System.out.println();
+    static void Rev_pattern(int n) {
+        if(n>0){
+        Rev_pattern(n - 1);
+        for (int i = 5; i >= n; i--) {
+            System.out.print("* ");
+        }
+        System.out.println();
+    }
     }
     public static void main(String[]args){
         Rev_pattern(5);
