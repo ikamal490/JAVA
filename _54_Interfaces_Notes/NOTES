@@ -20,7 +20,7 @@ class AvonCycle implement Bicycle{   // implement is use in interface while exte
 
 Key Point of Interface:
     Cannot have instance variables or constructors.
-    All methods are abstract (except default and static methods).
+    All methods are public (except default and static methods).
     All fields are public, static, and final.
     A class can implement multiple interfaces, allowing for multiple inheritance.
 
