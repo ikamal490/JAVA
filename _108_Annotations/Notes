@@ -1,0 +1,14 @@
+*Annotations in java :
+Used to provide extra information about a program .Annotations provides metadata to class/methods
+       . metadata means :- information about sub-information
+       Annotations se compiler apna way of behave change kar leta hai
+
+*Followings are the some common annotations built into java :
+1. @Override -> used to mark Overridden elements in the child class.
+
+2. @SuppressWarnings -> used to suppress the generated warnings by the compiler.
+
+3. @Deprecated -> used to mark deprecated methods.
+
+4. @FunctionalInterface -> used to ensure an interface is a functional interface.
+                         // an interface with a single abstract method, also known as a Single Abstract Method (SAM) interface
