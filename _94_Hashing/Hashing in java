@@ -1,0 +1,11 @@
+Hashing in Java is a technique used to store and retrieve data efficiently using a hash function.
+It converts input (keys) into a fixed-size integer (hash code) that determines the index in a data structure, such as a hash table or hash map.
+
+1. Hash Function: Converts input into a hash code (integer).
+2. Collision Handling: Since different inputs can have the same hash, techniques like chaining (LinkedList at each index) or open addressing (probing for the next available slot) are used.
+3. Efficiency: Hashing provides O(1) average time complexity for insert, search, and delete operations.
+
+HashMap (stores key-value pairs, allows null keys)
+HashSet (stores unique elements)
+Hashtable (synchronized version of HashMap)
+LinkedHashMap (maintains insertion order)
