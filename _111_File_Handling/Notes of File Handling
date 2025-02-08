@@ -1,0 +1,9 @@
+Reading from and writing to files is an important aspect of any programming language.
+
+We can use the File class in java to create a file object
+
+- CreateNewFile() method ---> Create a file
+
+- For reading files we can use the same Scanner class and supply it a file object.
+
+- To delete a file in java we can use File Object's delete() method.
