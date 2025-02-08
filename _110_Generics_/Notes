@@ -1,0 +1,14 @@
+* Generics :
+
+Introduced from JDK 5.0 onwards
+very similar to C++ template(but not the same)
+
+If we write -
+    ArrayList a = new ArrayList();
+    a.add(78)
+    int anum = a.get(0);  ------> we can't do this
+    int anum = (int) a.get(0);  ------> we can do this
+
+Hence generics aim to reduce bugs & enhance type safety.
+
+NOTE: Type Parameter in java generics cannot be a primitive data type
