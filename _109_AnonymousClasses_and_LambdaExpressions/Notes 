@@ -1,0 +1,6 @@
+* Lambda Expression :
+Added in java 8
+Lambda Expressions use for interface having only one method.
+Lambda Expression let us express instance of single method classes more compactly.
+Anonymous classes are used to implement a base class without giving it a name.
+For classes with a single method, even anonymous classes get slightly exessive & cumbersome
