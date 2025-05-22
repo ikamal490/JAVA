@@ -1,4 +1,4 @@
-# ☕ Core Java Mastery 💻
+# ☕ Core Java 💻
 
 Welcome to the **Core Java** repository! This repository contains comprehensive Java programs, concepts, and examples designed to help beginners and intermediate learners understand the fundamentals of Java programming.
 
